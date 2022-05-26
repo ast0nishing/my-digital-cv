@@ -1,10 +1,10 @@
 # Le Quang Nhat
 
-<img src="https://github.com/lqnhat97/my-digital-cv/blob/gh-pages/img/my_img.JPG?raw=true" alt="drawing" style="width:200px;"/> <br>
+<img src="[https://github.com/lqnhat97/my-digital-cv/blob/gh-pages/img/my_img.JPG?raw=true](https://github.com/thaile-isme/my-digital-cv/blob/gh-pages/my_img.JPG)" alt="drawing" style="width:200px;"/> <br>
 _Software engineer in Ho Chi Minh city, Vietnam_ <br>
-_**DoB**: 24/09/1997_ <br>
+_**DoB**: 31/10/2001_ <br>
 _**Phone**: +84786358044_ <br>
-_**Email**: lqnhat97@gmail.com_ <br>
+_**Email**: thaile.isme@gmail.com_ <br>
 [LinkedIn](https://www.linkedin.com/in/lqnhat97/) / [GitHub](https://github.com/lqnhat97/)
 
 ## 🎯 Objective
