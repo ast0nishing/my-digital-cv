@@ -1,11 +1,11 @@
-# Le Quang Nhat
+# Le Quang Thai
 
-<img src="[https://github.com/lqnhat97/my-digital-cv/blob/gh-pages/img/my_img.JPG?raw=true](https://github.com/thaile-isme/my-digital-cv/blob/gh-pages/my_img.JPG)" alt="drawing" style="width:200px;"/> <br>
-_Software engineer in Ho Chi Minh city, Vietnam_ <br>
+<img src="https://github.com/thaile-isme/my-digital-cv/blob/gh-pages/my_img.png" alt="drawing" style="width:200px;"/> <br>
+_Data Scientist_ <br>
 _**DoB**: 31/10/2001_ <br>
-_**Phone**: +84786358044_ <br>
+_**Phone**: +84 332123412_ <br>
 _**Email**: thaile.isme@gmail.com_ <br>
-[LinkedIn](https://www.linkedin.com/in/lqnhat97/) / [GitHub](https://github.com/lqnhat97/)
+[LinkedIn](https://www.linkedin.com/in/thaileisme/) / [GitHub](https://github.com/thaile-isme/)
 
 ## 🎯 Objective
 
@@ -13,67 +13,20 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 
 ## 🎓 Education
 
-**Bachelor of Information Technology** in [HCMC University of Science](https://www.hcmus.edu.vn/) - Ho Chi Minh city, Vietnam _(2015 - 2019)_
+**Junior** in [Tan Tao University](https://www.ttu.edu.vn/) - Long An, Vietnam. </br>Major: Data Science  _(2019 - present)_
 
-## ✍️ Technological skills
+## ✍️ Skills
 
-- Having fundamental understanding of software development, OOP
-- Main language is Java
-- Recently, I'm learning Rust language
-- Proficiency with many relational databases
-- Can use git, docker, Jenkins, and have knowledge about cloud
-- Having knowledge of Agile and scrum methodology
-- Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
-- Withstand high work pressure
+- Python
+- Machine Learning, Deep Learning 
+- SQL, NoSQL
 
-## 👨‍💻 Working Experience
-
-**Software Engineer** @ [TP&P Technology](https://www.tpptechnology.com/) _(Apr 2022 - Present)_ <br>
-ADvendio Marketplace: Salesforce integration
-
-- Designing and building web services to get/sync data from Salesforce to others Salesforce account or others platform
-- Designing and developing apis
-- Mapping from Salesforce object to OpenDirect standard
-- Doing manual test, code review
-- **_Technologies used:_** Java (Spring boot)
-
-**Software Engineer** @ [mesoneer](https://www.mesoneer.io/en/) _(Feb 2021 - Feb 2022)_ <br>
-Cards-management: Cards-management module for banking-system
-
-- Implementing features, pages that improve the UI and accessibility of the integrations platform
-- Designing and developing apis
-- Implementing unit test, e2e test
-- Building docker, jenkins, helm chart for deploying to the playground
-- Doing manual test, code review
-- **_Technologies used:_** Angular, Java (Spring boot), Jenkins, Docker, k8s, rabbitmq.
-
-**Backend Engineer** @ [Metanet](https://www.metanet.co.kr/) _(Nov 2019 - Jan 2021)_ <br>
-Metapay: Payroll tool for HR department <br>
-Metatest: An internal tool for testers to track their tasks <br>
-Some maintenance projects: Old JSP projects from Korean side
-
-- Designing and developing features
-- Implementing unit test
-- Doing manual test, code review
-- **_Technologies used:_** Angular, Java (Spring boot), Jenkins
-
-**Software Engineer** @ [elca](https://www.elca.vn/) _(Jul 2019 - Nov 2019)_ <br>
-iPension: Switzerland Insurance management
-
-- Maintenance existing project
-- Developing new features
-- Implementing unit test
-- **_Technologies used:_** JavaFx, gRPC
-
-**Internship** @ [Eplatform solution](https://www.eplatform.vn/) _(2018)_ <br>
-MyHR: Internal tool for HRM
-
-- Learning about how to work in professional (planning, code review, estimation)
-- Doing some tasks to get familiar with tech stacks
-- **_Technologies used:_** Java (Spring boot), VueJs
+## 👨‍💻 Projects
+**[NyanCat Simulator](https://github.com/thaile-isme/nyancat_simulator)**: Simulate the movement of a famous cat <br>
+**[Auto 10fastfingers](https://github.com/thaile-isme/auto-10fastfingers.com), [Auto sudoku](https://github.com/thaile-isme/auto-sudoku.com)**: My friends challenged me, so I built a bot to destroy the game :).
 
 ## 🧸 Interest
 
-**Travelling.** I want to know the 
+**Travelling.** I want to explore the 
 world around me.<br>
 **Learning new technology**
