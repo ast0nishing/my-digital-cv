@@ -9,7 +9,11 @@ _**Email**: thaile.isme@gmail.com_ <br>
 
 ## 🎯 Objective
 
-Seeking a position as a Software Engineer where I can utilize my software engineering skills, abilities and experiences gained through relevant education and projects to contribute to the ongoing success of the company. ✌️ <br> 
+Seeking for a position as a Data Scientist where I can utilize my  skills, abilities and experiences gained through relevant education and projects to contribute to the ongoing success of the company. ✌️ <br> 
+
+## 👨‍💻 Projects
+**[NyanCat Simulator](https://github.com/thaile-isme/nyancat_simulator)**: Simulate the movement of a famous cat <br>
+**[Auto 10fastfingers](https://github.com/thaile-isme/auto-10fastfingers.com), [Auto sudoku](https://github.com/thaile-isme/auto-sudoku.com)**: My friends challenged me, so I built a bot to destroy the game :).
 
 ## 🎓 Education
 
@@ -21,12 +25,8 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 - Machine Learning, Deep Learning 
 - SQL, NoSQL
 
-## 👨‍💻 Projects
-**[NyanCat Simulator](https://github.com/thaile-isme/nyancat_simulator)**: Simulate the movement of a famous cat <br>
-**[Auto 10fastfingers](https://github.com/thaile-isme/auto-10fastfingers.com), [Auto sudoku](https://github.com/thaile-isme/auto-sudoku.com)**: My friends challenged me, so I built a bot to destroy the game :).
-
 ## 🧸 Interest
 
 **Travelling.** I want to explore the 
 world around me.<br>
-**Learning new technology**
+**Learning new things**. Sastify my curiosity and keep my brain growing continuously.
