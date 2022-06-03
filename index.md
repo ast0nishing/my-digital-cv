@@ -12,8 +12,8 @@ _**Email**: thaile.isme@gmail.com_ <br>
 Seeking for a position as a Data Scientist where I can utilize my  skills, abilities and experiences gained through relevant education and projects to contribute to the ongoing success of the company. ✌️ <br> 
 
 ## 👨‍💻 Projects
-**[NyanCat Simulator](https://github.com/thaile-isme/nyancat_simulator)**: Simulate the movement of a famous cat <br>
-**[Auto 10fastfingers](https://github.com/thaile-isme/auto-10fastfingers.com), [Auto sudoku](https://github.com/thaile-isme/auto-sudoku.com)**: My friends challenged me, so I built a bot to destroy the game :).
+**[NyanCat Simulator](https://github.com/thaile-isme/nyancat_simulator)**: Simulate the movement of a famous cat using Python & Pygame<br>
+**[Auto 10fastfingers](https://github.com/thaile-isme/auto-10fastfingers.com), [Auto sudoku](https://github.com/thaile-isme/auto-sudoku.com)**: My friends challenged me, so I built a bot to destroy the game :) (Python, Selenium, Opencv).
 
 ## 🎓 Education
 
