@@ -1,6 +1,6 @@
 # Le Quang Thai
 
-<img src="https://github.com/thaile-isme/my-digital-cv/blob/gh-pages/my_img.png" alt="drawing" style="width:200px;"/> <br>
+<img src="https://github.com/thaile-isme/my-digital-cv/blob/gh-pages/thai.jpg" alt="drawing" style="width:200px;"/> <br>
 _Data Scientist_ <br>
 _**DoB**: 31/10/2001_ <br>
 _**Phone**: +84 332123412_ <br>
