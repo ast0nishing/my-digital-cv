@@ -1,6 +1,6 @@
 # Le Quang Thai
 
-<img src="https://github.com/thaile-isme/my-digital-cv/blob/gh-pages/me.jpg" alt="drawing" style="width:200px;"/> <br>
+<img src="https://github.com/thaile-isme/my-digital-cv/blob/gh-pages/img/me.jpg" alt="drawing" style="width:200px;"/> <br>
 _Data Scientist_ <br>
 _**DoB**: 31/10/2001_ <br>
 _**Phone**: +84 332123412_ <br>
@@ -17,7 +17,7 @@ Seeking for a position as a Data Scientist where I can utilize my  skills, abili
 
 ## 🎓 Education
 
-**Junior** in [Tan Tao University](https://www.ttu.edu.vn/) - Long An, Vietnam. </br>Major: Data Science  _(2019 - present)_
+**Junior** in [Tan Tao University](https://www.ttu.edu.vn/) - Long An, Vietnam. <br>Major: Data Science  _(2019 - present)_
 
 ## ✍️ Skills
 
