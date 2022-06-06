@@ -17,7 +17,8 @@ Seeking for a position as a Data Scientist where I can utilize my  skills, abili
 
 ## 🎓 Education
 
-**Junior** in [Tan Tao University](https://www.ttu.edu.vn/) - Long An, Vietnam. <br>Major: Data Science  _(2019 - present)_
+**Junior** in [Tan Tao University](https://www.ttu.edu.vn/) - Long An, Vietnam. <br>
+Major: Data Science  _(2019 - present)_
 
 ## ✍️ Skills
 
