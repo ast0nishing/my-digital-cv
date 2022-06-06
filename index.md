@@ -26,7 +26,7 @@ Major: Data Science  _(2019 - present)_
 - Machine Learning, Deep Learning 
 - SQL, NoSQL
 
-## 🧸 Interest
+## 🧸 Interests
 
 **Travelling.** I want to explore the 
 world around me.<br>
